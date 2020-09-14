@@ -17,8 +17,6 @@ Install Neutrino and then extract addon files into Neutrino mod folder.
 |Cargo|20,000|
 |Fuel|8,000|
 
-15 small energy
-
-4 medium energy
-
-2 large energy
+15|Small|Energy|Turret
+4|Medium|Energy|Turret
+2|Large|Energy|Turret
