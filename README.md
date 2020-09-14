@@ -4,6 +4,8 @@ Compatible with Neutrino v1.86-RC3, Starsector v0.9.1a.
 
 ## Install
 Install Neutrino and then extract addon files into Neutrino mod folder.
+
+##Ship stats
 |Stat|Value|
 |---|---|
 |Hull|24,000|
