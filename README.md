@@ -18,6 +18,7 @@ Install Neutrino and then extract addon files into Neutrino mod folder.
 |Fuel|8,000|
 
 |Count|Size|Type|Arc|
+|---|---|---|---|
 |15|Small|Energy|Turret|
 |4|Medium|Energy|Turret|
 |2|Large|Energy|Turret|
