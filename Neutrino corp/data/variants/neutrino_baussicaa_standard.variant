@@ -1,0 +1,35 @@
+{
+    "displayName": "Super",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "neutrino_baussicaa",
+    "hullMods": [
+        "expanded_cargo_holds",
+        "auxiliary_fuel_tanks",
+		"heavyarmor"
+    ],
+    "permaMods": [],
+    "variantId": "neutrino_baussicaa_standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS0001": "neutrino_misery",
+			"WS0002": "neutrino_misery",
+			"WS0003": "neutrino_misery",
+            "WS0004": "neutrino_misery",
+            "WS0005": "neutrino_misery",
+            "WS0006": "neutrino_misery",
+			"WS0007": "neutrino_misery",
+			"WS0008": "neutrino_misery",
+			"WS0009": "neutrino_misery",
+			"WS0010": "neutrino_misery",
+			"WS0015": "neutrino_misery",
+			"WS0016": "neutrino_misery",
+			"WS0017": "neutrino_misery",
+			"WS0018": "neutrino_misery",
+			"WS0021": "neutrino_misery"
+        }
+    }]
+}

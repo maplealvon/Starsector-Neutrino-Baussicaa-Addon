@@ -1,0 +1,305 @@
+{
+  "hullName": "Baussicaa",
+  "hullId": "neutrino_baussicaa",
+  "hullSize": "CAPITAL_SHIP",
+  "spriteName": "graphics/neut/ships/neutrino_baussicaa.png",
+  "style": "HIGH_TECH",
+  "height": 722,
+  "width": 418,
+  "center": [209, 338],
+  "collisionRadius": 516,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 439.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "neutrino_sigmaupgrade",
+    "neutrino_neutroniumplating",
+    "shielded_holds",
+    "pointdefenseai"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": 0,
+      "locations": [349, 37]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": -0,
+      "locations": [349, -37]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": 90,
+      "locations": [195, 42]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": -90,
+      "locations": [195, -42]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": -90,
+      "locations": [-188.5, -147]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": 90,
+      "locations": [-188.5, 147]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": -179,
+      "locations": [-256, 25]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": 179,
+      "locations": [-256, -25]
+    },
+    {
+      "id": "WS0009",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": -90,
+      "locations": [46, -201.5]
+    },
+    {
+      "id": "WS0010",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": 90,
+      "locations": [46, 201.5]
+    },
+    {
+      "id": "WS0011",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": 45,
+      "locations": [-170, 176]
+    },
+    {
+      "id": "WS0012",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": -45,
+      "locations": [-170, -176]
+    },
+    {
+      "id": "WS0013",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": 90,
+      "locations": [40.5, 115]
+    },
+    {
+      "id": "WS0014",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 180,
+      "angle": -90,
+      "locations": [40.5, -115]
+    },
+    {
+      "id": "WS0015",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 45,
+      "locations": [-111.5, 22]
+    },
+    {
+      "id": "WS0016",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": -45,
+      "locations": [-111.5, -22]
+    },
+    {
+      "id": "WS0017",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 135,
+      "locations": [-141.5, 17]
+    },
+    {
+      "id": "WS0018",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": -135,
+      "locations": [-141.5, -17]
+    },
+    {
+      "id": "WS0019",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 0,
+      "locations": [170.5, -0]
+    },
+    {
+      "id": "WS0020",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 360,
+      "angle": 0,
+      "locations": [296.5, -0]
+    },
+    {
+      "id": "WS0021",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 215,
+      "angle": -179,
+      "locations": [-224, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-295.5, 150],
+      "length": 60,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-295.5, -150],
+      "length": 60,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-299.5, 124],
+      "length": 60,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-299.5, -124],
+      "length": 60,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-304.5, 97],
+      "length": 60,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-304.5, -97],
+      "length": 60,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-287.5, 28],
+      "length": 60,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-287.5, -28],
+      "length": 60,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [-307.5, -0],
+      "length": 120,
+      "width": 20,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "Neutrino_SHIP"
+    },
+    {
+      "location": [357.5, -0],
+      "length": 60,
+      "width": 20,
+      "angle": 0,
+      "contrailSize": 20,
+      "style": "Neutrino_SHIP"
+    }
+  ],
+  "bounds": [
+    -305.5, -179,
+    124, -179,
+    124, -93,
+    341.5, -94,
+    361, -46,
+    361, 46,
+    341.5, 94,
+    124, 93,
+    124, 179,
+    -305.5, 179
+  ]
+}
